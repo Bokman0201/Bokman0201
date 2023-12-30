@@ -3,7 +3,8 @@
 
 - 🌱 I’m currently learning **Spring Framework**
 
-* <h3 align="left">🍳Contact</h3>
+- <h3 align="left">🍳Contact</h3>
+  - Email : <a>94.jeonghs@gmail.com</a>
 <p align="left">
 </p>
 
