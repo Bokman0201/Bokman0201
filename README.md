@@ -24,11 +24,11 @@ public class Main {
         AboutMe Jeongheeseok = AboutMe.builder()
                 .name("정희석")
                 .job("Developer")
-                .developmentFields(new String[]{"Hope to be a full-stack developer"})
-                .languages(new String[] {"java"})
-                .backendSkills(new String[] {"Spring","Mybatis","Oracle","Maven"})
-                .frontendSkills(new String[]{"JavaScript", "jQuery", "HTML5", "CSS3", "Ajax" , "React"})  
-                .interest(new String[] {})
+                .developmentFields({"Hope to be a full-stack developer"})
+                .languages({"java"})
+                .backendSkills({"Spring","Mybatis","Oracle","Maven"})
+                .frontendSkills({"JavaScript", "jQuery", "HTML5", "CSS3", "Ajax" , "React"})  
+                .interest( {})
                 .build();
     }
 }
