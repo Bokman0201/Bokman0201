@@ -5,6 +5,34 @@
 
 About Me
 - 🌱 I’m currently learning **Spring Framework**
+```
+@Builder
+class AboutMe {
+    String name;
+    String job;
+    String[] developmentFields;
+    String[] languages;
+    String[] backendSkills;
+    String[] frontendSkills;
+    String[] interest;
+}
+
+public class Main {
+    public static void main(String[] args) {
+
+        AboutMe Jeongheeseok = AboutMe.builder()
+                .name("정희석")
+                .job("Developer")
+                .developmentFields(new String[]{"Hope to be a full-stack developer"})
+                .languages(new String[] {"java"})
+                .backendSkills(new String[] {"Spring","Mybatis","Oracle","Maven"})
+                .frontendSkills(new String[]{﻿"JavaScript", "jQuery", "HTML5", "CSS3", "Ajax" , "React"})  
+                .interest(new String[] {})
+                .build();
+    }
+}
+
+```
 
 👔 Experience
 - 1
