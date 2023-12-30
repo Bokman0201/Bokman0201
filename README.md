@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm JeongHeeSeok</h1>
 <h3 align="center">개발자 희망자 입니다!</h3>
 
+About Me
 - 🌱 I’m currently learning **Spring Framework**
 
-  <h3 align="left">🍳Contact</h3>
-    - Email: [94.jeonghs@gmail.com](mailto:94.jeonghs@gmail.com)
+👔
+
+  ` <h3 align="left">🍳Contact</h3>
+     - Email: [94.jeonghs@gmail.com](mailto:94.jeonghs@gmail.com)
 <p align="left">
 </p>
 
