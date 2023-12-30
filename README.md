@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Spring Framework**
 
 - <h3 align="left">🍳Contact</h3>
-  - Email : <a>94.jeonghs@gmail.com</a>
+- Email: [94.jeonghs@gmail.com](mailto:94.jeonghs@gmail.com)
 <p align="left">
 </p>
 
