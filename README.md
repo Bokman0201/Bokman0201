@@ -4,10 +4,13 @@
 About Me
 - 🌱 I’m currently learning **Spring Framework**
 
-👔
+👔 Experience
+- 1
+- 2
+- 3
 
-  ` <h3 align="left">🍳Contact</h3>
-     - Email: [94.jeonghs@gmail.com](mailto:94.jeonghs@gmail.com)
+🍳Contact
+- Email: [94.jeonghs@gmail.com](mailto:94.jeonghs@gmail.com)
 <p align="left">
 </p>
 
