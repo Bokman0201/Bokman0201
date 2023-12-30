@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Spring Framework**
 
-<h3 align="left">Contact:</h3>
+<h3 align="left"><minutemailer/>Contact:</h3>
 <p align="left">
 </p>
 
