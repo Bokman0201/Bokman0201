@@ -35,7 +35,7 @@ public class Main {
 ```
 
 👔 Experience
-- ﻿(디지털컨버전스)공공데이터 융합 웹 애플리케이션 개발자 양성과정4![image](https://github.com/Bokman0201/Bokman0201/assets/136571664/86b1dfc0-e5b8-4bc3-bc22-d4cc4ca52541)
+- ﻿(디지털컨버전스)공공데이터 융합 웹 애플리케이션 개발자 양성과정4
 
 
 🍳Contact
