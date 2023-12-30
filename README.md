@@ -3,9 +3,10 @@
 <h1 align="center">Hi 👋, I'm JeongHeeSeok</h1>
 <h3 align="center">개발자 희망자 입니다!</h3>
 
-About Me
+**About Me**
 - 🌱 I’m currently learning **Spring Framework**
-```
+
+```java
 @Builder
 class AboutMe {
     String name;
@@ -26,13 +27,11 @@ public class Main {
                 .developmentFields(new String[]{"Hope to be a full-stack developer"})
                 .languages(new String[] {"java"})
                 .backendSkills(new String[] {"Spring","Mybatis","Oracle","Maven"})
-                .frontendSkills(new String[]{﻿"JavaScript", "jQuery", "HTML5", "CSS3", "Ajax" , "React"})  
+                .frontendSkills(new String[]{"JavaScript", "jQuery", "HTML5", "CSS3", "Ajax" , "React"})  
                 .interest(new String[] {})
                 .build();
     }
 }
-
-```
 
 👔 Experience
 - 1
