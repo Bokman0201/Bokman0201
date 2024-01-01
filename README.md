@@ -28,7 +28,7 @@ public class Main {
                 .languages({"java"})
                 .backendSkills({"Spring","Mybatis","Oracle","Maven"})
                 .frontendSkills({"JavaScript", "jQuery", "HTML5", "CSS3", "Ajax" , "React"})  
-                .interest( {})
+                .interest( {"운동"})
                 .build();
     }
 }
