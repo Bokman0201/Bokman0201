@@ -42,7 +42,7 @@ public class Main {
 - Email: [94.jeonghs@gmail.com](mailto:94.jeonghs@gmail.com)
 
 📗 Blog
-- 
+- [https://404-err.tistory.com](https://404-err.tistory.com/)
 <p align="left">
 </p>
 
